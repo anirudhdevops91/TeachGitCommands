@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#The above line is called as a shebang and is mandatory for any bash script that can be executed.
+
+#This file contains test script/code to teach concepts of how Git works as an SCM, VCS tool.
+#For the unfamiliar, this file/script will only work on Linux OS.
+#Contains bash scripts that explain what is happening as they are executed.
+#Useful to explain concepts of branching and code commits methodology.
+
+echo "What you are reading now, is the base existing code."
+echo "Consider this part of the code to exist before you even joined the company."
+echo "*******************************************************************************"
